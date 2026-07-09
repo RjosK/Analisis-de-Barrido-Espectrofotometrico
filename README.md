@@ -27,7 +27,8 @@ Para iniciar la aplicacion, abra la terminal en el directorio del proyecto y eje
 ```bash
 streamlit run app.py
 ```
-
+O simplemente abra el siguiente link 
+https://josr-k-espectro.streamlit.app/
 Esto abrira automaticamente el navegador web predeterminado con la interfaz de la aplicacion.
 
 ## Referencia de Diseno
